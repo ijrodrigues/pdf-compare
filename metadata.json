@@ -1,0 +1,5 @@
+{
+  "name": "Comparador de PDF com IA",
+  "description": "Uma ferramenta moderna para comparar o texto e o layout de dois arquivos PDF usando a API Gemini. Arraste e solte seus arquivos para ver a análise de similaridade.",
+  "requestFramePermissions": []
+}
